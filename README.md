@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ctaylor-28
 - 👀 I’m interested in Japanese Anime/Romance novels/music
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Computer Science and Network Administration
 - 💞️ I’m looking to collaborate on networking
 - 📫 How to reach me csrt2015@gmail.com
 
